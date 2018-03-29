@@ -1,0 +1,1 @@
+instance_destroy(object_meteor_hit,0)

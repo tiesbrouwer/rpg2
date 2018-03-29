@@ -1,0 +1,1 @@
+draw_healthbar(x-10, y-20, x+300, y-60, object_player.hp, $FF0000FF & $FFFFFF, $FF00FF00 & $FFFFFF, $FF00FF00 & $FFFFFF, 0,1,0)

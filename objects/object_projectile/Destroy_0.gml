@@ -1,0 +1,1 @@
+instance_create_layer(x,object_dummy.y-25,"Projectiles",object_ontploffing)
