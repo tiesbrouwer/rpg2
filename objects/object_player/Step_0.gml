@@ -49,12 +49,12 @@ if keyboard_check_pressed(vk_right)
 		object_player.facing = 0
 	}
 
-/*if cantouch = 1
-	{
-		object_set_sprite(object_player,sprite_player)	
-	}
-if cantouch = 0
-	{
-		if ev_animation_end = 1
-		cantouch = 1
-	}*/
+mp_store = mp;
+if object_player.mp < 150 
+{
+object_player.mp = object_player.mp_store + 0.05;
+}
+if object_player.mp >= 150
+{
+	object_player.mp = object_player.mp_store + 0;
+}

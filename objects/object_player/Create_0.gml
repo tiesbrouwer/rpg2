@@ -7,9 +7,14 @@ movespeed = 4;
 facing = 0;
 cantouch = 1
 
-// health/mana
+// health
 object_player.hp = 100;
 object_player.hp_store = 0;
 
+// mana
+object_player.mp = 150;
+object_player.mp_store = 0;
+
 //fullscreen
 window_set_fullscreen(true)
+
