@@ -18,6 +18,7 @@
         "51540be8-b921-4038-8931-080420e78d27",
         "ed7154e2-ec92-46c1-8c51-5d7c0a6f9227",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "f1367a01-fd5b-4d06-9442-a45b5edeac75",
 <<<<<<< HEAD
         "c8d28bc4-1a01-4849-83cc-0f365c79c66b"
@@ -26,6 +27,9 @@
         "aed4b787-61c2-4ab9-b481-867c1ec51392",
         "aeac0dfb-aab0-4c5c-b24f-d9a5bbdd3cb4"
 >>>>>>> e135ae19f18a292a5dbf68be35762f5a989a401e
+=======
+        "f1367a01-fd5b-4d06-9442-a45b5edeac75"
+>>>>>>> parent of 078e271... variabele damage projectiles
 =======
         "f1367a01-fd5b-4d06-9442-a45b5edeac75"
 >>>>>>> parent of 078e271... variabele damage projectiles
