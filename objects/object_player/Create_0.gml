@@ -11,3 +11,5 @@ cantouch = 1
 object_player.hp = 100;
 object_player.hp_store = 0;
 
+//fullscreen
+window_set_fullscreen(true)
